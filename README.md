@@ -6,7 +6,9 @@
 <code>npm install</code>
 <p>Then run in the root directory:</p>
 <code>npm run dev</code>
+
 <br/>
+
 <h2>How to build the source code?</h2>
 <p>Make sure that you have NW.js installed:
 <code>npm install</code>
