@@ -1,0 +1,1 @@
+$(document).on("pagecreate","#main",function(){(new gauth.KeysController).init()});
